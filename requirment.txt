@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+pytesseract
+Pillow
+google-api-python-client
+praw
+pandas
+matplotlib
+ 
